@@ -6,6 +6,8 @@ This project is part of a distributed computing and big data processing assignme
 
 Due to the massive size of the dataset and the high frequency of the spatial data, we utilized **Hadoop** for distributed storage and **Spark SQL** for distributed computation. This ensured efficient data synchronization, cleaning, and parallel processing across the cluster.
 
+![Alt Text](spurs.gif)
+
 ## Features
 
 The project comprises three main analytical modules, implemented in Java using Apache Spark:
