@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is part of a distributed computing and big data processing assignment, where we leveraged Apache Spark on a Hadoop cluster to process and analyze large-scale NBA movement tracking data. Each game tracked millions of positional data points sampled at 25Hz for all players and the ball, resulting in hundreds of millions of records across the season.
+This project is part of a distributed computing and big data processing assignment, where we leveraged Apache Spark on a Hadoop cluster to process and analyze large-scale NBA movement tracking data. Each game tracked millions of positional data points sampled at 25Hz for all players and the ball, resulting in millions of records across the season.
 
 Due to the massive size of the dataset and the high frequency of the spatial data, we utilized **Hadoop** for distributed storage and **Spark SQL** for distributed computation. This ensured efficient data synchronization, cleaning, and parallel processing across the cluster.
 
